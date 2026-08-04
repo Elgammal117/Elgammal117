@@ -1,5 +1,5 @@
 <div align="center">
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=180&section=header&text=Mohammed%20Elgammal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 # Mohammed Elgammal
 
 ### Flutter Developer • UI/UX Designer • Computer Science Graduate
@@ -87,3 +87,4 @@ Building scalable mobile applications with **Flutter**, **Firebase**, and **Clea
 *"Code. Create. Learn. Repeat."*
 
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer"/>
