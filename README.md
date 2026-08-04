@@ -2,81 +2,103 @@
 
 <img src="banner.png" width="100%" alt="Mohammed Elgammal Banner"/>
 
-# Mohammed Elgammal
+<br>
 
-### Flutter Developer • Computer Science Graduate • UI/UX Designer
+# Hi, I'm Mohammed Elgammal 👋
 
-Building beautiful mobile applications with Flutter and creating modern user experiences.
+### Flutter Developer • UI/UX Designer • Computer Science Graduate
+
+<p>
+Building scalable, high-performance mobile applications with Flutter,
+Firebase, and Clean Architecture while creating modern and intuitive user experiences.
+</p>
 
 <br>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mohammed-elgammal-956b2a306/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/Elgammal117">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<a href="https://github.com/Elgammal117" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+<a href="mailto:elgammalm071@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<a href="https://elgammal-tawny.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```dart
 class MohammedElgammal {
 
-  final location = "Egypt 🇪🇬";
+  const String location = "Egypt 🇪🇬";
 
-  final education = "B.Sc. Computer Science";
+  const String role = "Flutter Developer";
 
-  final role = "Flutter Developer";
+  const String education = "B.Sc. Computer Science";
 
-  final currentFocus = [
+  final List<String> specialties = [
     "Flutter",
     "Firebase",
+    "REST APIs",
     "Clean Architecture",
-    "System Design"
+    "State Management",
+    "UI/UX Design"
   ];
 
-  final hobbies = [
-    "Building Apps",
-    "UI/UX Design",
-    "Learning New Technologies"
+  final List<String> currentlyLearning = [
+    "Advanced Flutter",
+    "System Design",
+    "Backend Development"
   ];
 
+  final String motto =
+      "Code with purpose. Design with passion.";
 }
 ```
 
 ---
 
-# ⚒️ Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,figma,fastapi,docker,linux,cs&perline=6"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,fastapi,docker,linux,cs&perline=6"/>
 
 </div>
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Elgammal117&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Elgammal117&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=Elgammal117&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Elgammal117&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Elgammal117&theme=tokyo-night&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elgammal117&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Elgammal117&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -84,28 +106,8 @@ class MohammedElgammal {
 
 <div align="center">
 
-## 🤝 Let's Connect
+### 💙 Thanks for visiting my profile!
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Elgammal117">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
+*"Building apps that make a difference, one line of code at a time."*
 
 </div>
