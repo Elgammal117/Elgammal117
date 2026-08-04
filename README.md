@@ -39,9 +39,6 @@ Building scalable mobile applications with **Flutter**, **API**, and **Clean Arc
 - 📱 Flutter Developer specializing in cross-platform mobile applications
 - 🎨 Passionate about creating clean, responsive, and modern user interfaces
 - 🔥 Experienced with Flutter, Firebase, REST APIs, and Clean Architecture
-- 🌱 Currently learning System Design and Backend Development
-- 🤝 Open to internships, freelance opportunities, and collaborations
-
 ---
 
 ## 🛠️ Tech Stack
