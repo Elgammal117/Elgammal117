@@ -1,35 +1,32 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="Mohammed Elgammal Banner"/>
-
-<br>
-
-# Hi, I'm Mohammed Elgammal 👋
+# Mohammed Elgammal
 
 ### Flutter Developer • UI/UX Designer • Computer Science Graduate
 
-<p>
-Building scalable, high-performance mobile applications with Flutter,
-Firebase, and Clean Architecture while creating modern and intuitive user experiences.
-</p>
+Building scalable mobile applications with **Flutter**, **Firebase**, and **Clean Architecture**, while crafting modern and intuitive user experiences.
 
 <br>
 
 <a href="https://www.linkedin.com/in/mohammed-elgammal-956b2a306/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://github.com/Elgammal117" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="mailto:elgammalm071@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://elgammal-tawny.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://elgammal-tawny.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Flutter+Developer;Clean+Architecture+Enthusiast;UI%2FUX+Designer;Always+Learning+Something+New" />
 
 </div>
 
@@ -37,38 +34,16 @@ Firebase, and Clean Architecture while creating modern and intuitive user experi
 
 ## 👨‍💻 About Me
 
-```dart
-class MohammedElgammal {
-
-  const String location = "Egypt 🇪🇬";
-
-  const String role = "Flutter Developer";
-
-  const String education = "B.Sc. Computer Science";
-
-  final List<String> specialties = [
-    "Flutter",
-    "Firebase",
-    "REST APIs",
-    "Clean Architecture",
-    "State Management",
-    "UI/UX Design"
-  ];
-
-  final List<String> currentlyLearning = [
-    "Advanced Flutter",
-    "System Design",
-    "Backend Development"
-  ];
-
-  final String motto =
-      "Code with purpose. Design with passion.";
-}
-```
+- 🇪🇬 Based in Egypt
+- 🎓 Bachelor of Computer Science
+- 📱 Flutter Developer passionate about building scalable mobile applications
+- 🎨 UI/UX Designer who enjoys creating clean and modern interfaces
+- 🌱 Currently learning **Advanced Flutter**, **System Design**, and **Backend Development**
+- 🚀 Open to internships, freelance opportunities, and exciting collaborations
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -82,13 +57,13 @@ class MohammedElgammal {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Elgammal117&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Elgammal117&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Elgammal117&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Elgammal117&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elgammal117&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elgammal117&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -106,8 +81,8 @@ class MohammedElgammal {
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### 💙 Thanks for visiting!
 
-*"Building apps that make a difference, one line of code at a time."*
+*"Code. Create. Learn. Repeat."*
 
 </div>
