@@ -4,7 +4,7 @@
 
 ### Flutter Developer • UI/UX Designer • Computer Science Graduate
 
-Building scalable mobile applications with **Flutter**, **Firebase**, and **Clean Architecture** while crafting modern and intuitive user experiences.
+Building scalable mobile applications with **Flutter**, **API**, and **Clean Architecture** while crafting modern and intuitive user experiences.
 
 <br>
 
