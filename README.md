@@ -50,23 +50,6 @@ Building scalable mobile applications with **Flutter**, **Firebase**, and **Clea
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,fastapi,docker,linux,cs&perline=6"/>
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Elgammal117&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Elgammal117&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elgammal117&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
