@@ -1,10 +1,12 @@
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=180&section=header&text=Mohammed%20Elgammal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 # Mohammed Elgammal
 
-### Flutter Developer • UI/UX Designer • Computer Science Graduate
+**Flutter Developer • UI/UX Designer • Computer Science Graduate**
 
-Building scalable mobile applications with **Flutter**, **API**, and **Clean Architecture** while crafting modern and intuitive user experiences.
+Building scalable mobile applications with Flutter, REST APIs, and Clean Architecture while crafting modern and intuitive user experiences.
 
 <br>
 
@@ -32,39 +34,33 @@ Building scalable mobile applications with **Flutter**, **API**, and **Clean Arc
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🇪🇬 Based in Egypt
-- 🎓 Bachelor of Computer Science
-- 📱 Flutter Developer specializing in cross-platform mobile applications
-- 🎨 Passionate about creating clean, responsive, and modern user interfaces
-- 🔥 Experienced with Flutter, Firebase, REST APIs, and Clean Architecture
----
+I am a Flutter Developer based in Egypt with a Bachelor's degree in Computer Science. My primary focus is on developing cross-platform mobile applications that emphasize clean, responsive, and modern user interfaces.
 
-## 🛠️ Tech Stack
+> [!NOTE]
+> I am actively seeking new opportunities to leverage my skills in Flutter, Firebase, and Clean Architecture to build impactful software.
+
+## Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,figma,fastapi,docker,linux,cs&perline=6"/>
-
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## GitHub Activity
 
 <div align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Elgammal117&theme=tokyo-night&hide_border=true"/>
-
 </div>
 
 ---
 
+> [!TIP]
+> **Thanks for visiting my profile!**
+> "Code. Create. Learn. Repeat."
+
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Create. Learn. Repeat."*
-
-</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=120&section=footer"/>
+</div>
